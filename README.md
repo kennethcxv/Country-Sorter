@@ -18,8 +18,10 @@
 
 ### Installing
 - Clone the Repository
-```git clone https://github.com/kennethcxv/Country-Sorter.git```
+  ```git clone https://github.com/kennethcxv/Country-Sorter.git```
+
 - Navigate to the Project Directory
+  ``cd Country-Sorter``
 - Build the Project
 sh
 Copy code
