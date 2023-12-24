@@ -4,10 +4,10 @@
 
 ## Features
 - **Efficient Sorting Algorithms:** Utilizes advanced sorting algorithms to manage large datasets.
-- Flexible Data Input: Supports various formats of country data inputs.
-- User-Friendly Interface: Easy-to-use command-line interface.
-- Customizable Sorti Criteria: Sort by name, population, area, or custom metrics.
-- High Performance: Optimized for speed and memory usage with C++.
+- **Flexible Data Input:** Supports various formats of country data inputs.
+- **User-Friendly Interface:** Easy-to-use command-line interface.
+- **Customizable Sorti Criteria:** Sort by name, population, area, or custom metrics.
+- **High Performance:** Optimized for speed and memory usage with C++.
 
 ## Getting Started
 - These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
