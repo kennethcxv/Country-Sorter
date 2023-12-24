@@ -12,7 +12,7 @@
 ## Getting Started
 - These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
+### Prerequisites
 - C++ Compiler (GCC recommended)
 - Make (for building the project)
 
@@ -26,7 +26,7 @@
 - Build the Project
   ```make```
 
-## Usage
+### Usage
 Execute the application with the following command:
   ```./country-sorter```
 
