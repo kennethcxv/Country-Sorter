@@ -18,6 +18,7 @@
 
 ### Installing
 - Clone the Repository
+```git clone https://github.com/kennethcxv/Country-Sorter.git```
 - Navigate to the Project Directory
 - Build the Project
 sh
