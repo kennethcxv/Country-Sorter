@@ -3,7 +3,7 @@
 - Country Sorter is a highly efficient, C++-based tool designed for sorting country data. This project leverages the robust features of C++ to handle large datasets with optimal performance. It's ideal for applications in data analysis, geographic information systems, and educational purposes.
 
 ## Features
-- Efficient Sorting Algorithms: Utilizes advanced sorting algorithms to manage large datasets.
+- **Efficient Sorting Algorithms:** Utilizes advanced sorting algorithms to manage large datasets.
 - Flexible Data Input: Supports various formats of country data inputs.
 - User-Friendly Interface: Easy-to-use command-line interface.
 - Customizable Sorti Criteria: Sort by name, population, area, or custom metrics.
