@@ -22,26 +22,27 @@
 
 - Navigate to the Project Directory
   ``cd Country-Sorter``
+
 - Build the Project
-sh
-Copy code
-make
-Running the Application
-To run the application, use the following command:
+  ```make```
 
-sh
-Copy code
-./country-sorter
-Usage
-Provide instructions on how to use your tool, including command-line options and examples.
+## Usage
+Execute the application with the following command:
+  ```./country-sorter```
 
-Contributing
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+## Contributing
+Your contributions are welcome and greatly appreciated. To contribute:
 
 Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
+Create your Feature Branch ```(git checkout -b feature/AmazingFeature)```
+Commit your Changes ```(git commit -m 'Add some AmazingFeature')```
+Push to the Branch ```(git push origin feature/AmazingFeature)```
 Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+Kenneth - kennethcxv@gmail.com
+
+Project Link: https://github.com/kennethcxv/Country-Sorter
